@@ -186,11 +186,7 @@ This project provides practical experience in:
 
 **Verilog HDL | AMD Xilinx Vivado | Finite State Machines | RTL Simulation | Waveform Analysis**
 
-## Author
 
-**Aditya S. Malagi**  
-B.Tech, Electronics and Communication Engineering  
-CMR University, Bengaluru
 
 ---
 
